@@ -149,8 +149,8 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: https://github.com/sakthisrisanth98
+- LinkedIn: https://www.linkedin.com/in/sakthi-sri-santh-m-416540290
 
 ## 🙏 Acknowledgments
 
@@ -160,9 +160,9 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/YOUR_USERNAME/webguard-extension/issues)
-- 💡 **Feature Requests**: [Open an issue](https://github.com/YOUR_USERNAME/webguard-extension/issues)
-- 📧 **Contact**: your.email@example.com
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/sakthisrisanth98/webguard-extension/issues)
+- 💡 **Feature Requests**: [Open an issue](https://github.com/sakthisrisanth98/webguard-extension/issues)
+- 📧 **Contact**: sakthisrisanth98@gmail.com
 
 ---
 
