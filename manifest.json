@@ -1,0 +1,52 @@
+{
+  "manifest_version": 3,
+  "name": "WebGuard – AI Privacy Intelligence",
+  "version": "3.0",
+  "description": "Professional cybersecurity-grade browser monitoring with AI-powered risk analysis and tracking detection.",
+
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "notifications"
+  ],
+
+  "host_permissions": ["<all_urls>"],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content/content.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": ["content/inject.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "WebGuard_Icon.png",
+      "32": "WebGuard_Icon.png",
+      "48": "WebGuard_Icon.png",
+      "128": "WebGuard_Icon.png"
+    }
+  },
+
+  "icons": {
+    "16": "WebGuard_Icon.png",
+    "32": "WebGuard_Icon.png",
+    "48": "WebGuard_Icon.png",
+    "128": "WebGuard_Icon.png"
+  }
+}
