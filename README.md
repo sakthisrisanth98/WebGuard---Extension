@@ -26,7 +26,15 @@ A professional cybersecurity-grade Chrome extension for real-time browser privac
 
 ## 📸 Screenshots
 
-*(Add screenshots of your extension here)*
+![WebGuard Dashboard](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120121.png)
+![Privacy Monitoring](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120230.png)
+![Risk Analysis](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120243.png)
+![Domain Intelligence](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120259.png)
+![Tracking Detection](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120409.png)
+![Activity Logs](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120422.png)
+![Metric Filters](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120432.png)
+![Risk Scoring](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120444.png)
+![Anomaly Detection](WebGuard%20-%20Screenshots/Screenshot%202026-02-17%20120503.png)
 
 ## 🛠️ Installation
 
